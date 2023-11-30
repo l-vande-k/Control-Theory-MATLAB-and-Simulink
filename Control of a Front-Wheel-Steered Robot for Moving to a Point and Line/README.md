@@ -1,0 +1,1 @@
+Students were required to design the equivalent control system for the kinematic model of a fourwheeled, front-wheel steered mobile robot. The kinematic model’s equivalent control system was implemented as a subsystem within two mobile robot control systems: one that sends the robot to a desired location and the other causes the robot to follow a given line.

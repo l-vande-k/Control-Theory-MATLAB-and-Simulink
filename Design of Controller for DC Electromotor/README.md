@@ -1,0 +1,1 @@
+This project focuses on the modeling and design of a position control system for an electromotor and its associated load system, with electromotors being widely utilized as industrial actuators in robotic systems. 
